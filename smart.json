@@ -1,0 +1,11 @@
+{
+  "meteor": {
+    "branch": "master"
+  },
+  "packages": {
+    "jquery-slitslider": {
+      "path": "/home/vagrant/SANDBOX/temp/meteor-jquery-slitslider"
+    },
+    "modernizr-meteor": {}
+  }
+}
